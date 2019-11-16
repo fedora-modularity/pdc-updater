@@ -1,3 +1,9 @@
+Deprecation Notice
+------------------
+
+**This repository is no longer used.
+See https://github.com/fedora-infra/pdc-updater for the continuation of this work.**
+
 This is a backend daemon that listens to fedmsg and updates PDC with
 information about what it sees on the bus.
 
